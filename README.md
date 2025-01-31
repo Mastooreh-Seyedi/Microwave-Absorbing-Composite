@@ -45,6 +45,10 @@ The script generates a reflection loss vs. frequency plot to evaluate the materi
 
 ![Reflection Loss Graph](reflection_loss_plot.PNG)
 
+Also, the features' importance is shown below:
+
+![Feature Importance](feature_importance.PNG)
+
 ## Future Work
 - Integrate experimental validation with fabricated composites.
 - Implement machine learning for enhanced optimization.
