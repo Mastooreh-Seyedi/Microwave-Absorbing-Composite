@@ -43,7 +43,7 @@ Predicted Reflection Loss: -23.45 dB
 ## Visualization
 The script generates a reflection loss vs. frequency plot to evaluate the material performance:
 
-![Reflection Loss Graph](reflection_loss_plot.png)
+![Reflection Loss Graph](reflection_loss_plot.PNG)
 
 ## Future Work
 - Integrate experimental validation with fabricated composites.
